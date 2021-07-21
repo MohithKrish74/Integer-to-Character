@@ -12,7 +12,7 @@ public class Main
         System.out.print("Enter the Integer: ");
         int Integers=in.nextInt();
         char character =(char)Integers;
-        System.out.print("String to Character : "+ character);
+        System.out.print("Integer to Character : "+ character);
     }
 }
 
